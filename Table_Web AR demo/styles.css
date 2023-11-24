@@ -1,0 +1,99 @@
+/* 全局样式设置 */
+body {
+  font-family: Arial, sans-serif; /* 字体设置为 Arial 或无衬线字体 */
+  margin: 0; /* 移除边距 */
+  padding: 0; /* 移除内填充 */
+  display: flex; /* 启用弹性盒子布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  min-height: 100vh; /* 最小高度为视窗高度 */
+  background-color: #f7f7f7; /* 背景颜色设置为浅灰色 */
+}
+
+/* 主容器样式 */
+#main-container {
+  width: 1200px; /* 宽度设置为1200像素 */
+  position: relative; /* 相对定位 */
+  display: grid; /* 启用网格布局 */
+  grid-template-columns: repeat(4, 1fr); /* 分为四列 */
+  grid-gap: 10px; /* 列之间的间隙为10像素 */
+}
+
+/* AR 加载指示器样式 */
+.arjs-loader {
+  height: 100%; /* 高度为100% */
+  width: 100%; /* 宽度为100% */
+  position: absolute; /* 绝对定位 */
+  top: 0; /* 顶部对齐 */
+  left: 0; /* 左侧对齐 */
+  background-color: rgba(0, 0, 0, 0.8); /* 半透明黑色背景 */
+  z-index: 9999; /* 高层级以覆盖其他元素 */
+  display: flex; /* 弹性布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  }
+
+/* AR 窗口样式 */
+.arjs-loader div {
+text-align: center ; /* 文本居中 */
+font-size: 1.25em; /* 字体大小 */
+color: white; /* 文本颜色为白色 */
+}
+
+.ar-scene {
+  width: 800px !important;  /* 设置宽度 */
+  height: 600px !important; /* 设置高度 */
+  margin: auto;  /* 如需居中显示 */
+  border: 1px solid #000; /* 可选，为了更明显地看到场景边界 */
+}
+
+
+/* 每个框的基本样式 */
+.box {
+  border: 1px solid #000; /* 黑色边框 */
+  display: flex; /* 弹性布局 */
+  align-items: center; /* 垂直居中 */
+  justify-content: center; /* 水平居中 */
+}
+
+/* 特定框的样式，用于设置大小和网格位置 */
+.menu { grid-column: 1 / span 1; height: 100px; }
+.about { grid-column: 2 / span 1; height: 100px; }
+.try-human { grid-column: 1 / span 2; height: 200px; }
+.try-image { grid-column: 3 / span 2; height: 200px; }
+.try-position { grid-column: 1 / span 4; height: 200px; }
+.feedback { grid-column: 3 / span 1; height: 100px; }
+.contact { grid-column: 4 / span 1; height: 100px; }
+
+/* 媒体查询：适应小屏幕设备 */
+@media (max-width: 768px) {
+  #main-container {
+    width: 100%; /* 宽度调整为100% */
+    grid-template-columns: 1fr; /* 单列布局 */
+  }
+  .box {
+    height: auto; /* 高度自适应 */
+    margin-bottom: 10px; /* 底部间隔 */
+  }
+  .ar-scene {
+        width: 100%;  /* 在较小屏幕上，宽度设置为100% */
+        height: 300px; /* 调整高度 */
+    }
+
+
+}
+
+/* 媒体查询：适应大屏幕设备 */
+@media (min-width: 769px) {
+  #main-container {
+    width: 600px; /* 宽度调整为600像素 */
+    grid-template-columns: repeat(4, 1fr); /* 四列布局 */
+  }
+  .box {
+    height: 100px; /* 高度固定为100像素 */
+    /* 其他样式 */
+  }
+  .try-human, .try-image, .try-position {
+    height: 200px; /* 特定元素的高度为200像素 */
+  }
+}
