@@ -72,6 +72,7 @@ It was inspired by the Third International Tower.
 
 <img width="1500" alt="截屏2023-11-24 19 10 07" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/b9922527-2241-46dd-b499-0e74dff824a8">
 
+![截屏2023-11-24 19 18 03](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/19afc173-69a7-4c5e-808a-19a304ee48ad)
 
 
 <br>
@@ -87,7 +88,12 @@ It was inspired by the Third International Tower.
 
 During this week, I researched the principles, technologies, and existing market applications of AR. I discovered ar.js (an open-source code) which can be used to build simple web AR, with its main directions being image tracking, location-based, and marker-based. I also realized through platforms like Unity and Kivicube that the success of this platform relies on targeting a wider audience. For a user who has no experience in creating AR works or professional knowledge in 3D modeling, this platform would involve a high learning cost.
 
+![截屏2023-11-24 19 20 53](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/940e4a22-3506-427b-813e-a94a06421227)
+
+
 In the subsequent research process, I added research on the principles of 3D modeling technology.
+
+
 
 ### Week 2
 
@@ -96,6 +102,15 @@ During this week, I researched the principles of 3D modeling and conducted user 
 ### Week 3
 
 Through brainstorming, I clarified the platform's functions and general workflow, and considered how to simplify the process and create a functional architecture (flowchart). I also created a low-fidelity prototype.
+
+![IMG_3202](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/9e2d53d9-6876-41b4-8c41-84ebc80ca09b)
+
+![IMG_3110](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/ceed510c-5736-466e-8697-5cfcef0a27e1)
+
+
+<img width="807" alt="截屏2023-11-24 19 35 26" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/cc5f19f0-e5a0-4dc5-935b-a9c4b1f45e22">
+
+<img width="399" alt="截屏2023-11-24 19 35 47" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/c77c3591-35f0-4a39-b29d-e6d0ef493335">
 
 ### Week 4
 
@@ -107,17 +122,34 @@ Furthermore, I found that focusing solely on location-based AR functionality is 
 
 - Web AR demo testing:
 
+![IMG_3114](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/1c9b3d8f-d3ba-44ff-b049-f4684e400e7c)
+
+![IMG_3132](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/12e505d7-8469-4954-8675-8e8ac6e41261)
+
+  
+
 ### Week 5
 
 - AR example - "Spore Infestation"
 
+- ![截屏2023-11-24 19 50](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/fe553a74-0258-4c3b-9870-316d4a1d8f3c)
+
+
 
 - Creating AR example - "Butterfly Bones"
+- 
+![截屏2023-11-24 19 49 36](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/b5593d0a-f81b-4df7-911d-8d2b1d812808)
+
+- 
 
 
 ### Week 6
 
 - Platform logo and UI style determined
+  
+![IMG_3203](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/3633371e-4fd0-4fbc-93f8-ca4d4fc36648)
+
+<img width="356" alt="截屏2023-11-24 19 38 06" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/f3f6a724-1b2d-424c-9aa0-63ad1822c255">
 
 The origin of the name "Table" actually came from a conversation I had with friends. I was introducing this project to them, and one of them asked me what this model could bring, whether it was just for fun.
 
@@ -139,20 +171,32 @@ At the same time, allow people to use the table to display their thoughts and cr
 
 - Create AR example - Information Cocoon
 
+![截屏2023-11-24 19 49](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/e09e8872-a026-4590-ab60-25a1b5139ba0)
+
+
+
+
 ### Week 7
 
 - User interface design
 - Prototype creation
 - Motion design
 
+
+<img width="1124" alt="截屏2023-11-24 19 36 20" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/91eea295-3094-4cf9-9c13-4d73aee09f20">
+![截屏2023-11-24 19 36](https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/b74ffb88-1971-44f0-8c5d-237c3b708b5d)
+<img width="1079" alt="截屏2023-11-24 19 36 55" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/e618e76d-a621-41f5-94ec-4784f283b6fd">
+<img width="1014" alt="截屏2023-11-24 19 45 14" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/78b4393e-c8cd-49ae-a170-69e016546714">
+
+
 ### Week 8
 
 - Organize all materials
-- Organize research process and thesis outline, start writing the paper (introduction and **Research Method section completed**)
+- Organize research process and thesis outline, start writing the thesis (introduction and Research Method section completed)
 
 ### Week 9
 
-- Continue writing the paper
+- Continue writing the thesis
 - Conceptualize/shoot/edit videos
 - Prepare for the final project presentation and submission
 
