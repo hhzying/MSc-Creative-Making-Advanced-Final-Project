@@ -32,19 +32,19 @@ video link：
 
 <br>
 
-* project proposal：
+- project proposal：
 
 As an international student, living in the UK has often given me the unrealistic feeling that I just like living in another game world and the people around me were like NPCs. After thinking I realised that this feeling might not only due to language and cultural differences. As a newcomer to this city, I have yet to establish deeply relationships and connections with environment here.Therefore, I have an idea for a platform that I would like to design for the general public (not only limited to professionals) to design their own AR works. Users could place their AR work in a specific location and others could come to that location and view and interact with the work. The location of each work will be fixed (the details and regulations are yet to be worked out).I hope through this platform, people will be able to more fully express the world on their eyes and this platform can give a new connections to users (with people or with the environment). 
 
 <br> 
 
-* project timeline and Milestones:
+- project timeline and Milestones:
 
 I had the first meeting with my supervisor on July 7th, during which we clarified the research direction of the entire project and completed the work plan and timeline. The initial plan was to complete the platform design in five weeks, and another five weeks to create augmented reality digital works as user cases for the platform. I also provided a moodboard for the general direction of the AR cases.
 
 <br>
 
-* Supervisor feedback:
+- Supervisor feedback:
 
 In addition, my supervisor and I discussed the community and game aspects of the entire platform. We explored how to make the platform interesting enough and how to attract new users to join. I have started thinking about these two questions.
 
@@ -96,11 +96,94 @@ Furthermore, I found that focusing solely on location-based AR functionality is 
 
 - Web AR demo testing:
 
-## Week 5
+### Week 5
 
 - AR example - "Spore Infestation"
 - 
 - Creating AR example - "Butterfly Bones"
+
+
+### Week 6
+
+- Platform logo and UI style determined
+
+The origin of the name "Table" actually came from a conversation I had with friends. I was introducing this project to them, and one of them asked me what this model could bring, whether it was just for fun.
+
+In order to explain it more simply, I gave them an analogy. I said, "When we talk about a table, what do you think is on your table?"
+
+He said he would think of a table full of delicious food (we were eating at that time).
+
+I said, "My first reaction might be to think of a very organized workstation, some stationery, my notebook, a high-end desktop computer, and a large external display. There should also be a very comfortable ergonomic chair next to it, and preferably a shelf with books and decorations."
+
+At this point, another friend who was eating with us said, "On my table, there would be a book and a vase, but no flowers. The table is by the window. I can look up and see the tree outside."
+
+I said, "Then I think my table must be by the window, preferably with a sea view."
+
+"Yeah, so the meaning of my project is to make people 'materialize' their thoughts in a more three-dimensional way, just like drawing."
+
+To make thoughts exist in the real world in a more concrete and tangible way.
+
+At the same time, allow people to use the table to display their thoughts and creativity, becoming a platform for communication and sharing.
+
+- Create AR example - Information Cocoon
+
+### Week 7
+
+- User interface design
+- Prototype creation
+- Motion design
+
+### Week 8
+
+- Organize all materials
+- Organize research process and thesis outline, start writing the paper (introduction and **Research Method section completed**)
+
+### Week 9
+
+- Continue writing the paper
+- Conceptualize/shoot/edit videos
+- Prepare for the final project presentation and submission
+
+
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+
+
+
+
+
+
+
 
 
 
