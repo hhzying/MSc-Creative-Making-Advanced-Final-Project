@@ -40,11 +40,19 @@ As an international student, living in the UK has often given me the unrealistic
 
 - project timeline and Milestones:
 
+<img width="1563" alt="截屏2023-11-24 09 08 27" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/ff75a447-fe47-4797-b1e2-46cae2809d4c">
+
 I had the first meeting with my supervisor on July 7th, during which we clarified the research direction of the entire project and completed the work plan and timeline. The initial plan was to complete the platform design in five weeks, and another five weeks to create augmented reality digital works as user cases for the platform. I also provided a moodboard for the general direction of the AR cases.
 
 <br>
 
 - Supervisor feedback:
+
+  
+<img width="387" alt="截屏2023-11-24 09 14 21" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/063f0ccb-21b6-4f6d-bb86-b588ba900a49">
+
+<img width="381" alt="截屏2023-11-24 09 14 12" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/97e723e2-6a23-403b-bac7-9b7d9915724f">
+
 
 In addition, my supervisor and I discussed the community and game aspects of the entire platform. We explored how to make the platform interesting enough and how to attract new users to join. I have started thinking about these two questions.
 
@@ -53,15 +61,18 @@ In addition, my supervisor and I discussed the community and game aspects of the
 
 ## Summer Independent Study Period
 
-After conducting research and brainstorming on the general direction, I initially thought it would be better to build a website to comprehensively showcase the platform. However, since I have no experience in website building and lack a foundation in frontend knowledge, I started organizing my own portfolio website during the summer independent study period. I learned frontend knowledge while working on the website. I also moved the creation of the AR cases ahead of the platform architecture. I spent about five to six weeks learning frontend knowledge and then about two weeks creating AR cases.
+After conducting research and brainstorming on the general direction, I initially thought it would be better to build a website to comprehensively showcase the platform. However, since I have no experience in website building and lack a foundation in frontend knowledge, I started organizing my own portfolio website during the summer independent study period. I learned frontend knowledge while working on the website (my personal website:https://hhzying.cargo.site/ ). I also moved the creation of the AR cases ahead of the platform architecture. I spent about five to six weeks learning frontend knowledge and then about two weeks creating AR cases.
 
 However, after learning frontend knowledge, I realized that it was almost impossible for me to design and develop a platform website alone. Even if I could, it would take too much time to learn the basics, which would deviate from my initial project concept and plan. Therefore, I decided to use Figma to create a high-fidelity prototype of the app instead, as I felt it could better present my ideas. Additionally, the user base on the app side is wider.
 
 At the same time, I conducted research on the psychological phenomenon of "derealization" or "depersonalization" which I mentioned as the inspiration for my project. I found that it is a manifestation of a psychological disorder.
 
-Example 1 was inspired by the Third International Tower.
+* AR Example 1 - Spiral Line/Spiral Tower
+It was inspired by the Third International Tower.
 
-Spiral Line/Spiral Tower
+<img width="1500" alt="截屏2023-11-24 19 10 07" src="https://github.com/hhzying/MSc-Creative-Making-Advanced-Final-Project/assets/119880764/b9922527-2241-46dd-b499-0e74dff824a8">
+
+
 
 <br>
 
@@ -99,7 +110,8 @@ Furthermore, I found that focusing solely on location-based AR functionality is 
 ### Week 5
 
 - AR example - "Spore Infestation"
-- 
+
+
 - Creating AR example - "Butterfly Bones"
 
 
