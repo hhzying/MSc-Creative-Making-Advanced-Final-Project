@@ -20,6 +20,8 @@ University of the Arts London: Creative Computing Institute
 
 video link：
 
+Note: use "test photo"(Table_Web AR demo/test photo.JPG) for webAR demo test.
+
 <br> <br> 
 
 # Table — Virtual Imprints: Individual Expression and Social Connection in Augmented Reality
