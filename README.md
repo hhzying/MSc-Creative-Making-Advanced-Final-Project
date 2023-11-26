@@ -18,7 +18,9 @@ University of the Arts London: Creative Computing Institute
 
 <br>
 
-video link：
+video link：https://youtu.be/vzWDR09PHJs?si=58fpOF9bHw2_eH4v
+
+layout link：https://hhzying.cargo.site/table
 
 Note: use "test photo"(Table_Web AR demo/test photo.JPG) for webAR demo test.
 
